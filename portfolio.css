@@ -83,9 +83,11 @@ main {
     max-width: 1140px;
     margin: 0 auto;
 }
+section{
+    margin-top: 130px;
+}
 
 .about {
-    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -95,7 +97,7 @@ main {
 }
 
 .section-title {
-    margin-bottom: 30px;
+    margin-bottom: 45px;
     color: #181818;
     font-weight: 700;
     font-size: 35px;
@@ -131,10 +133,7 @@ main {
 }
 
 /* What I do section styles */
-.what-i-do {
-    margin-bottom: 30px;
 
-}
 
 p.what-i-do {
     font-size: 18px;
@@ -170,3 +169,5 @@ p.what-i-do {
     font-size: 16px;
 
 }
+
+/* resume styles */
